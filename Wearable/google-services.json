@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "871275962140",
+    "firebase_url": "https://heartbeat-133f3.firebaseio.com",
+    "project_id": "heartbeat-133f3",
+    "storage_bucket": "heartbeat-133f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871275962140:android:dce99e52e756adaf",
+        "android_client_info": {
+          "package_name": "com.example.android.wearable.jumpingjack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871275962140-oenc8g0qg299gj0docmtga6ii5qhjstr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.wearable.jumpingjack",
+            "certificate_hash": "8d0f066da038b1345316aa7bb39e9b17464b6189"
+          }
+        },
+        {
+          "client_id": "871275962140-9l08ktvmrgpjjrn4ibtgh2lpujsvpq9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgEqoaV7cV9ohnSbR2ewk0JC5KUSktAtk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871275962140-9l08ktvmrgpjjrn4ibtgh2lpujsvpq9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
